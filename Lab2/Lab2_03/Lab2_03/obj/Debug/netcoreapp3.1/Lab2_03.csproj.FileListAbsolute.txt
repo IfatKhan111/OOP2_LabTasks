@@ -1,0 +1,12 @@
+C:\Users\ifatk\Desktop\OOP2\Lab\Lab2\Lab2_03\Lab2_03\bin\Debug\netcoreapp3.1\Lab2_03.exe
+C:\Users\ifatk\Desktop\OOP2\Lab\Lab2\Lab2_03\Lab2_03\bin\Debug\netcoreapp3.1\Lab2_03.deps.json
+C:\Users\ifatk\Desktop\OOP2\Lab\Lab2\Lab2_03\Lab2_03\bin\Debug\netcoreapp3.1\Lab2_03.runtimeconfig.json
+C:\Users\ifatk\Desktop\OOP2\Lab\Lab2\Lab2_03\Lab2_03\bin\Debug\netcoreapp3.1\Lab2_03.runtimeconfig.dev.json
+C:\Users\ifatk\Desktop\OOP2\Lab\Lab2\Lab2_03\Lab2_03\bin\Debug\netcoreapp3.1\Lab2_03.dll
+C:\Users\ifatk\Desktop\OOP2\Lab\Lab2\Lab2_03\Lab2_03\bin\Debug\netcoreapp3.1\Lab2_03.pdb
+C:\Users\ifatk\Desktop\OOP2\Lab\Lab2\Lab2_03\Lab2_03\obj\Debug\netcoreapp3.1\Lab2_03.AssemblyInfoInputs.cache
+C:\Users\ifatk\Desktop\OOP2\Lab\Lab2\Lab2_03\Lab2_03\obj\Debug\netcoreapp3.1\Lab2_03.AssemblyInfo.cs
+C:\Users\ifatk\Desktop\OOP2\Lab\Lab2\Lab2_03\Lab2_03\obj\Debug\netcoreapp3.1\Lab2_03.csproj.CoreCompileInputs.cache
+C:\Users\ifatk\Desktop\OOP2\Lab\Lab2\Lab2_03\Lab2_03\obj\Debug\netcoreapp3.1\Lab2_03.dll
+C:\Users\ifatk\Desktop\OOP2\Lab\Lab2\Lab2_03\Lab2_03\obj\Debug\netcoreapp3.1\Lab2_03.pdb
+C:\Users\ifatk\Desktop\OOP2\Lab\Lab2\Lab2_03\Lab2_03\obj\Debug\netcoreapp3.1\Lab2_03.genruntimeconfig.cache
