@@ -6,7 +6,7 @@ namespace Lab3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 
@@ -88,10 +88,115 @@ namespace Lab3
 
         public void TestTriangle()
         {
-            if (x==y && y == z)
+            if(x==y && y == z)
             {
-                Console.WriteLine();
+                Console.WriteLine("The triangle is equilateral");
+            }
+            else if(x==y || y==z || z == x)
+            {
+                Console.WriteLine("The triangle is isoscles");
+            }
+            else
+            {
+                Console.WriteLine("The triangle is scalene");
             }
         }
     }
+
+    public class Account
+    {
+        private string accName = "Fazla imam dip";
+        private string accid = "19403541";
+        private int balance = 0;
+
+        public string AccName
+        {
+            get {
+                return accName;
+            }
+            set{
+                accName = Console.ReadLine();
+            }
+        }
+        public string Acid
+        {
+            get {
+                return accid;
+            }
+            set {
+                accid = Console.ReadLine();
+            }
+        }
+
+        public int Balance
+        {
+            get{
+                return balance;
+            }
+            set{
+                balance = Convert.ToInt32(Console.ReadLine());
+            }
+        }
+
+        public void Deposit(int amount)
+        {
+            balance += amount;
+        }
+        public void WithDraw(int amount)
+        {
+            balance -= amount;
+        }
+    }
+
+    public class Course
+    {
+        private string courseName;
+        private string courseCode;
+        private int courseCredit;
+        public string CourseName
+        {
+            get
+            {
+                return courseName;
+            }
+            set
+            {
+                courseName = Console.ReadLine();
+            }
+
+        }
+        public string CourseCode
+        {
+            get
+            {
+                return courseCode;
+            }
+            set
+            {
+                courseCode = Console.ReadLine();
+            }
+
+        }
+        public int CourseCredit
+        {
+            get
+            {
+                return courseCredit;
+            }
+            set
+            {
+                courseCredit = Convert.ToInt32(Console.ReadLine());
+            }
+
+        }
+
+        public void ShowCourseInfo()
+        {
+            Console.WriteLine("Course name   : " + courseName);
+            Console.WriteLine("Course code   : " + courseCode);
+            Console.WriteLine("Course credit : " + courseCredit);
+
+        }
+    }
+
 }
