@@ -1,0 +1,12 @@
+D:\Semester\Sixth semester\C#\Lab\Final\Lab 8\GUI Task\GUI Task\bin\Debug\GUI Task.exe.config
+D:\Semester\Sixth semester\C#\Lab\Final\Lab 8\GUI Task\GUI Task\bin\Debug\GUI Task.exe
+D:\Semester\Sixth semester\C#\Lab\Final\Lab 8\GUI Task\GUI Task\bin\Debug\GUI Task.pdb
+D:\Semester\Sixth semester\C#\Lab\Final\Lab 8\GUI Task\GUI Task\obj\Debug\GUI Task.csprojAssemblyReference.cache
+D:\Semester\Sixth semester\C#\Lab\Final\Lab 8\GUI Task\GUI Task\obj\Debug\GUI_Task.Form1.resources
+D:\Semester\Sixth semester\C#\Lab\Final\Lab 8\GUI Task\GUI Task\obj\Debug\GUI_Task.Properties.Resources.resources
+D:\Semester\Sixth semester\C#\Lab\Final\Lab 8\GUI Task\GUI Task\obj\Debug\GUI Task.csproj.GenerateResource.cache
+D:\Semester\Sixth semester\C#\Lab\Final\Lab 8\GUI Task\GUI Task\obj\Debug\GUI Task.csproj.CoreCompileInputs.cache
+D:\Semester\Sixth semester\C#\Lab\Final\Lab 8\GUI Task\GUI Task\obj\Debug\GUI Task.exe
+D:\Semester\Sixth semester\C#\Lab\Final\Lab 8\GUI Task\GUI Task\obj\Debug\GUI Task.pdb
+D:\Semester\Sixth semester\C#\Lab\Final\Lab 8\GUI Task\GUI Task\obj\Debug\GUI_Task.Form2.resources
+D:\Semester\Sixth semester\C#\Lab\Final\Lab 8\GUI Task\GUI Task\obj\Debug\GUI_Task.Form3.resources
